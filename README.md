@@ -1,4 +1,4 @@
-# TikTok Unfollower - Selenium Automation
+# Browser Automator - Selenium Automation
 
 A Python project using Selenium WebDriver for web automation tasks.
 
