@@ -75,7 +75,7 @@ def main():
         driver = setup_chrome_driver()
         
         # Example: Open a website (you can change this URL)
-        website_url = "https://www.google.com"
+        website_url = "https://www.instagram.com"
         success = open_website(driver, website_url)
         
         if success:
